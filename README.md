@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# TodoList React Tutorial
+
+The tutorial can be found [here](https://ibaslogic.com/react-tutorial-for-beginners/).
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
